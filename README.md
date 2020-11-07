@@ -20,9 +20,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/iampatelajeet" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="iampatelajeet" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ajeet patel" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ajeet patel" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/ajeet_1606" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="ajeet_1606" height="30" width="40" /></a>
-<a href="https://fb.com/ajeet patel" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="ajeet patel" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ajeet-patel/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/ajeet-patel/" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/14214859/ajeet_1606" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="14214859/ajeet_1606" height="30" width="40" /></a>
+<a href="https://fb.com/patelajeet.ajeet/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="https://www.facebook.com/patelajeet.ajeet/" height="30" width="40" /></a>
 <a href="https://instagram.com/iampatelajeet" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="iampatelajeet" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/ajeet_1606" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="ajeet_1606" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/ajeet_1606" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="ajeet_1606" height="30" width="40" /></a>
