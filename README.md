@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajeet1606&label=Profile%20views&color=0e75b6&style=flat" alt="ajeet1606" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ajeet1606" alt="ajeet1606" /></a> </p>
+<p align="left"> <a href="https://github.com/ajeet1606/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ajeet1606" alt="ajeet1606" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/iampatelajeet" target="blank"><img src="https://img.shields.io/twitter/follow/iampatelajeet?logo=twitter&style=for-the-badge" alt="iampatelajeet" /></a> </p>
 
