@@ -6,11 +6,11 @@
 
 <p align="left"> <a href="https://twitter.com/iampatelajeet" target="blank"><img src="https://img.shields.io/twitter/follow/iampatelajeet?logo=twitter&style=for-the-badge" alt="iampatelajeet" /></a> </p>
 
-- 🔭 I’m currently working on **my first android app**
+- 🔭 I’m currently working on **MERN Stack**
 
-- 🌱 I’m currently learning **Android Studio.**
+- 🌱 I’m currently learning **React JS.**
 
-- 💬 Ask me about **Android Development , Competitive Programming**
+- 💬 Ask me about **Web Development , Data Structures and algorithms**
 
 - 📫 How to reach me **patelajeet1606@gmail.com**
 
