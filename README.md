@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ajeet Patel</h1>
-<h3 align="center">A passionate Android developer and aspiring Software Engineer</h3>
+<h3 align="center">A MERN Stack developer and aspiring Software Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajeet1606&label=Profile%20views&color=0e75b6&style=flat" alt="ajeet1606" /> </p>
 
