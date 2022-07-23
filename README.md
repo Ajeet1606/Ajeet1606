@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/iampatelajeet" target="blank"><img src="https://img.shields.io/twitter/follow/iampatelajeet?logo=twitter&style=for-the-badge" alt="iampatelajeet" /></a> </p>
 
-- 🔭 I’m currently working on **MERN Stack**
+- 🔭 I’m currently working on **MERN Stack Development**
 
 - 🌱 I’m currently learning **React JS.**
 
@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **patelajeet1606@gmail.com**
 
-- ⚡ Fun fact **I'm going to crack my greatest goal.**
+- ⚡ Fun fact **Sky is not the limit.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
