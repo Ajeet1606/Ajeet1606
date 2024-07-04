@@ -7,21 +7,21 @@
 
 <p align="left"> <a href="https://twitter.com/iampatelajeet" target="blank"><img src="https://img.shields.io/twitter/follow/iampatelajeet?logo=twitter&style=for-the-badge" alt="iampatelajeet" /></a> </p>
 
-- 🔭 I’m currently working on **React Projects.**
+- 🔭 I’m currently working on building **Projects on different tech stacks.**
 
-- 🌱 I’m currently learning **React, Advanced DSA topics**
+- 🌱 I’m currently learning **Node JS and Advanced DSA topics**
 
-- 👯 I’m looking to collaborate on [https://twitter.com/iampatelajeet](https://twitter.com/iampatelajeet)
+- 👯 I’m looking to collaborate on [Twitter](https://twitter.com/iampatelajeet)
 
-- 📝 I have written some articles on [https://auth.geeksforgeeks.org/user/patelajeet/articles](https://auth.geeksforgeeks.org/user/patelajeet/articles)
+- 📝 I have written some articles on [GeeksForGeeks](https://auth.geeksforgeeks.org/user/patelajeet/articles) and [Hashnode](https://hashnode.com/@iampatelajeet)
 
-- 💬 Ask me about **Frontend Development and DSA**
+- 💬 Ask me about **Web Development and DSA**
 
 - 📫 How to reach me **patelajeet1606@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1EusxHC2VAQsV5qvb57sQQy9YTs18sKzc/view?usp=share_link](https://drive.google.com/file/d/1EusxHC2VAQsV5qvb57sQQy9YTs18sKzc/view?usp=share_link)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1EusxHC2VAQsV5qvb57sQQy9YTs18sKzc/view?usp=share_link)
 
-- ⚡ Fun fact **I can't spend a day without solving DSA problems.**
+- ⚡ Fun fact **I binge watch youtube videos on building some random services.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
