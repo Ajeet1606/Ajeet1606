@@ -11,13 +11,13 @@
 
 - 🌱 I’m currently learning **Node JS and Advanced DSA topics**
 
-- 👯 I’m looking to collaborate on [Twitter](https://twitter.com/iampatelajeet)
+- 👯 we can collaborate on [Twitter](https://twitter.com/iampatelajeet)
 
 - 📝 I have written some articles on [GeeksForGeeks](https://auth.geeksforgeeks.org/user/patelajeet/articles) and [Hashnode](https://hashnode.com/@iampatelajeet)
 
 - 💬 Ask me about **Web Development and DSA**
 
-- 📫 How to reach me **patelajeet1606@gmail.com**
+- 📫 You can reach out to me on **ajeetpatel1606@gmail.com**
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1EusxHC2VAQsV5qvb57sQQy9YTs18sKzc/view?usp=share_link)
 
