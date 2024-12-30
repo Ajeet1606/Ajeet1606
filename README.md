@@ -14,4 +14,4 @@ Apart from the work, I like to read poetry, biographies & philosophy, binge watc
      - A tool for freehand sketching like excalidraw, with features of drawing, text, zoom, scroll, erase, export, undo, redo, custom stroke etc.
      -  100+ users in 2 days.
 
- Thank you for being here, feel free to reach out to me.
+ Thank you for being here, feel free to reach out to me on ajeetpatel1606@gmail.com.
