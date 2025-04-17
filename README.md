@@ -1,10 +1,10 @@
-<b> Hi There 🙋‍♂️</b>
+<b> Heyyaa 🙋‍♂️</b>
 
-I'm Ajeet, a software engineer based in India.
+I'm Ajeet Patel, a software engineer based in India.
 
 I love to build lil tools for daily use cases based on different tech stacks and domains. I started with frontend development in ReactJS and while working in it, learnt backend dev in NodeJS now I love backend more than frontend. I wish to build something at scale which could impact millions of users around the Globe.
 
-Apart from the work, I like to read poetry, biographies & philosophy, binge watch some coding playlists and read some engineering blogs of tech companies. In my free time you can catch me in the virtual world of <a href="https://x.com/Iampatelajeet">Twitter</a>.
+Apart from the code, I like to read poetry, biographies & philosophy, binge watch some coding or discovery playlists and read engineering blogs of tech companies sometimes. In my free time you can catch me in the virtual world of <a href="https://x.com/Iampatelajeet">Twitter</a>.
 
 <b>Recent projects:</b>
 - Roast GitHub:
